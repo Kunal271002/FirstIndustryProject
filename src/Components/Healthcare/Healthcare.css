@@ -1,0 +1,81 @@
+.text-center-whychooseus {
+    text-align: center !important;
+  }
+  .textaligncenter {
+    text-align: center;
+  }
+  .sectionPadding {
+    padding: 55px;
+  }
+  .whychooseUsText {
+    font-size: 36px;
+    margin-bottom: 0;
+    text-transform: capitalize;
+    color: #351F54;
+    font-weight: 650;
+    
+  }
+  .chooseCaption {
+    margin-bottom: 0;
+    line-height: 28px;
+    font-size: 1.3rem;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+  }
+  .choosebar {
+    height: 2px;
+    width: 165px;
+    background: #351F54;
+    margin: 20px auto 30px;
+    position: relative;
+    border-radius: 50%;
+  }
+  .align-item-center {
+    align-items: center !important;
+  }
+  .cardPadding {
+    padding: 35px 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 15px rgba(25, 25, 25, 0.1);
+    cursor: pointer;
+    text-align: right;
+    display: flex !important;
+    align-items: center;
+  }
+  .iconschoose {
+    display: block;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 35px;
+    border: 2px dashed #062a4d;
+    border-radius: 50%;
+    color: #062a4d;
+    transition: 0.3s linear;
+  }
+  .displayFlex {
+    display: flex !important;
+    align-items: center;
+    flex-direction: column;
+  }
+  p {
+    text-align: justify;
+  }
+  .servicesstyle {
+    cursor: pointer;
+    transition: box-shadow 0.3s, border-color 0.3s;
+  
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: "tnum";
+    position: relative;
+    background: #fff;
+    border-radius: 2px;
+  }

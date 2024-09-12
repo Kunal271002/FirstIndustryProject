@@ -1,0 +1,27 @@
+.login-btn {
+  color: #000000;
+  border-color: #351f54;
+  font-size: 18px;
+  padding: 8px 25px;
+  background: white;
+  border-radius: 0.3rem;
+  border: 1px solid;
+}
+.getintouch-btn { 
+  color: #ffffff;
+  border-color: #351f54;
+  font-size: 18px;
+  padding: 8px 25px;
+  border-radius: 0.3rem;
+  border: 1px solid;
+  background-color: #351f54;
+}
+.navbar-left-align {
+  justify-content: end;
+}
+.nav-link {
+  padding: 22px 15px 15px !important;
+}
+.footer-quicklinks-padding{
+  padding: .5rem 1rem;
+}

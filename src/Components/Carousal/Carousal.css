@@ -1,0 +1,26 @@
+.carousel-indicators{
+    bottom: 20px !important;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: black !important;
+
+}
+.detail-box{
+    margin-bottom: 110px !important;
+}
+.carousal-technology-div-align{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    text-align: start;
+    margin-top: 10px;
+    font-size: 1.30rem;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+}
+.carousal-technology-div-headins{
+    font-size: 3rem;
+    font-weight: 650;
+    text-transform: uppercase;
+    color: #351F54;
+}

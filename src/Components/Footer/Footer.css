@@ -1,0 +1,33 @@
+.footer {
+  background-color: #f8f9fa;
+}
+
+.footer h5 {
+  color: #4e008e; /* Matches the color of your headings */
+}
+
+
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #4e008e;
+}
+
+.footer .btn-outline-secondary {
+  color: #4e008e;
+  border-color: #4e008e;
+}
+
+.footer .btn-outline-secondary:hover {
+  background-color: #4e008e;
+  color: #ffffff;
+}
+
+.text-in-footer-left{
+  text-align: justify;
+  color: #000 !important;
+
+}

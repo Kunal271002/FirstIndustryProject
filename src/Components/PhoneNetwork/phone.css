@@ -1,0 +1,30 @@
+.backgroundimage{
+    background-image: url(/src/Assets/insuranceBackground.webp);
+    background-color: #ffffff;
+}
+.downmargin{
+    margin-top: 45px;
+}
+.textaglinleft{
+    text-align: left;
+}
+p h1{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 1.70rem;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    text-align: justify !important;
+}
+h1{
+    color: #351F54 !important;
+}
+.getintouch-btn { 
+    color: #ffffff;
+    border-color: #351f54;
+    font-size: 18px;
+    padding: 8px 25px;
+    border-radius: 0.3rem;
+    border: 1px solid;
+    background-color: #351f54;
+}

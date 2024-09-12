@@ -1,0 +1,33 @@
+.CardHeroSectionInside {
+  color: #ffffff;
+  background-color: #553c7e;
+  padding: 25px;
+  /* margin-top: 97.5px; */
+}
+.CardHeroSectionOutside {
+  color: #696262;
+  background-color: #553c7e;
+  padding: 25px;
+  /* margin-top: 97.5px; */
+}
+.FaFaIconsCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 90px;
+  height: 90px;
+  margin-bottom: 15px;
+  border: 1px solid #8e7da7;
+  border-radius: 100%;
+}
+.Kunal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.iconsizecard {
+  font-size: 40px;
+  color: #553c7e;
+}
